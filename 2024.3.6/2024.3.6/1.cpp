@@ -34,5 +34,5 @@ int main()
 //ios::in
 //ios::out
 //ios::binary
-//app  trunk删除原有  nocreate不存在不创建  noreplece以存在，使用open返回错误
+//app  trunk删除原有  nocreate不存在不创建  noreplace以存在，使用open返回错误
 //*p.seekg(ios::beg);指针回开头
