@@ -1,0 +1,2 @@
+﻿FileName.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl A::~A(void)" (??1A@@QEAA@XZ)，函数 "public: void * __cdecl A::`vector deleting destructor'(unsigned int)" (??_EA@@QEAAPEAXI@Z) 中引用了该符号
+C:\Users\14633\Desktop\Cp\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
